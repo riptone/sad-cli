@@ -20,4 +20,5 @@ av
 safetensors
 urllib3==1.26.18
 piper-tts
+pathvalidate
 python-dotenv
